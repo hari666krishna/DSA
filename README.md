@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/hari666krishna/DSA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/hari666krishna/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/hari666krishna/DSA/tree/master/0217-contains-duplicate) |
+| [0240-search-a-2d-matrix-ii](https://github.com/hari666krishna/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/hari666krishna/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/hari666krishna/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/hari666krishna/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/hari666krishna/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -99,11 +101,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/hari666krishna/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/hari666krishna/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/hari666krishna/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hari666krishna/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/hari666krishna/DSA/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/hari666krishna/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Newton's Method
 |  |
 | ------- |
