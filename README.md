@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hari666krishna/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hari666krishna/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/hari666krishna/DSA/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/hari666krishna/DSA/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hari666krishna/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hari666krishna/DSA/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/hari666krishna/DSA/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/hari666krishna/DSA/tree/master/0877-stone-game) |
 ## Manacher
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/hari666krishna/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/hari666krishna/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/hari666krishna/DSA/tree/master/0204-count-primes) |
+| [0877-stone-game](https://github.com/hari666krishna/DSA/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -158,4 +161,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/hari666krishna/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/hari666krishna/DSA/tree/master/0410-split-array-largest-sum) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/hari666krishna/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/hari666krishna/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/hari666krishna/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
