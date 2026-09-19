@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/hari666krishna/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/hari666krishna/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hari666krishna/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/hari666krishna/DSA/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/hari666krishna/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/hari666krishna/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/hari666krishna/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/hari666krishna/DSA/tree/master/0204-count-primes) |
 ## Greedy
 |  |
 | ------- |
@@ -117,4 +119,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hari666krishna/DSA/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hari666krishna/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hari666krishna/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hari666krishna/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hari666krishna/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hari666krishna/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
