@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/hari666krishna/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/hari666krishna/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/hari666krishna/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/hari666krishna/DSA/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hari666krishna/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/hari666krishna/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/hari666krishna/DSA/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/hari666krishna/DSA/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/hari666krishna/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/hari666krishna/DSA/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/hari666krishna/DSA/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/hari666krishna/DSA/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
