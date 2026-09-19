@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hari666krishna/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/hari666krishna/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/hari666krishna/DSA/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/hari666krishna/DSA/tree/master/0162-find-peak-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/hari666krishna/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/hari666krishna/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/hari666krishna/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/hari666krishna/DSA/tree/master/0162-find-peak-element) |
 ## Monotonic Stack
 |  |
 | ------- |
