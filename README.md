@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/hari666krishna/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hari666krishna/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/hari666krishna/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/hari666krishna/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/hari666krishna/DSA/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/hari666krishna/DSA/tree/master/0877-stone-game) |
 ## Hash Table
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hari666krishna/DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/hari666krishna/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/hari666krishna/DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/hari666krishna/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/hari666krishna/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hari666krishna/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/hari666krishna/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/hari666krishna/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/hari666krishna/DSA/tree/master/0410-split-array-largest-sum) |
 ## Monotonic Stack
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/hari666krishna/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/hari666krishna/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/hari666krishna/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -197,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/hari666krishna/DSA/tree/master/0239-sliding-window-maximum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hari666krishna/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/hari666krishna/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
