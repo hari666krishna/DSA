@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hari666krishna/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/hari666krishna/DSA/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hari666krishna/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/hari666krishna/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/hari666krishna/DSA/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/hari666krishna/DSA/tree/master/0877-stone-game) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hari666krishna/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/hari666krishna/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hari666krishna/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/hari666krishna/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/hari666krishna/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/hari666krishna/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/hari666krishna/DSA/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/hari666krishna/DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/hari666krishna/DSA/tree/master/0877-stone-game) |
 ## Greedy
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/hari666krishna/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/hari666krishna/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/hari666krishna/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/hari666krishna/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/hari666krishna/DSA/tree/master/0410-split-array-largest-sum) |
 ## Monotonic Stack
 |  |
@@ -125,11 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hari666krishna/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/hari666krishna/DSA/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hari666krishna/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hari666krishna/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/hari666krishna/DSA/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
