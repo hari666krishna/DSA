@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/hari666krishna/DSA/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/hari666krishna/DSA/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hari666krishna/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/hari666krishna/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Greedy
 |  |
 | ------- |
