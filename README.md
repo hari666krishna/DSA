@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/hari666krishna/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/hari666krishna/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/hari666krishna/DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hari666krishna/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/hari666krishna/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hari666krishna/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/hari666krishna/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hari666krishna/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/hari666krishna/DSA/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hari666krishna/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hari666krishna/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hari666krishna/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Counting
 |  |
 | ------- |
