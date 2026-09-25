@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/hari666krishna/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hari666krishna/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/hari666krishna/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/hari666krishna/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/hari666krishna/DSA/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hari666krishna/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/hari666krishna/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/hari666krishna/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/hari666krishna/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/hari666krishna/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hari666krishna/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/hari666krishna/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hari666krishna/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hari666krishna/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/hari666krishna/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/hari666krishna/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Counting
 |  |
 | ------- |
