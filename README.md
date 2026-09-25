@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/hari666krishna/DSA/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/hari666krishna/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/hari666krishna/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/hari666krishna/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
