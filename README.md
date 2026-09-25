@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/hari666krishna/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/hari666krishna/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/hari666krishna/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/hari666krishna/DSA/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/hari666krishna/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/hari666krishna/DSA/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/hari666krishna/DSA/tree/master/0162-find-peak-element) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/hari666krishna/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/hari666krishna/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/hari666krishna/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/hari666krishna/DSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/hari666krishna/DSA/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/hari666krishna/DSA/tree/master/0877-stone-game) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/hari666krishna/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hari666krishna/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/hari666krishna/DSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/hari666krishna/DSA/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/hari666krishna/DSA/tree/master/0605-can-place-flowers) |
 ## Stack
