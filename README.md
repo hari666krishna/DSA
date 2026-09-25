@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/hari666krishna/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/hari666krishna/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3719-longest-balanced-subarray-i](https://github.com/hari666krishna/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/hari666krishna/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hari666krishna/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/hari666krishna/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/hari666krishna/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/hari666krishna/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## String
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hari666krishna/DSA/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hari666krishna/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/hari666krishna/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/hari666krishna/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
