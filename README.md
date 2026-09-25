@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/hari666krishna/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hari666krishna/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1672-richest-customer-wealth](https://github.com/hari666krishna/DSA/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/hari666krishna/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/hari666krishna/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hari666krishna/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hari666krishna/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/hari666krishna/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/hari666krishna/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/hari666krishna/DSA/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hari666krishna/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/hari666krishna/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/hari666krishna/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/hari666krishna/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hari666krishna/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/hari666krishna/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
 | ------- |
