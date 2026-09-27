@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/hari666krishna/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/hari666krishna/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/hari666krishna/DSA/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2560-house-robber-iv](https://github.com/hari666krishna/DSA/tree/master/2560-house-robber-iv) |
 | [2574-left-and-right-sum-differences](https://github.com/hari666krishna/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/hari666krishna/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3719-longest-balanced-subarray-i](https://github.com/hari666krishna/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/hari666krishna/DSA/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/hari666krishna/DSA/tree/master/0877-stone-game) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/hari666krishna/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2560-house-robber-iv](https://github.com/hari666krishna/DSA/tree/master/2560-house-robber-iv) |
 ## Manacher
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/hari666krishna/DSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/hari666krishna/DSA/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/hari666krishna/DSA/tree/master/0605-can-place-flowers) |
+| [2560-house-robber-iv](https://github.com/hari666krishna/DSA/tree/master/2560-house-robber-iv) |
 ## Stack
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/hari666krishna/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/hari666krishna/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/hari666krishna/DSA/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2560-house-robber-iv](https://github.com/hari666krishna/DSA/tree/master/2560-house-robber-iv) |
 ## Monotonic Stack
 |  |
 | ------- |
